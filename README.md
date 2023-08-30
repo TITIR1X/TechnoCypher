@@ -1,2 +1,6 @@
 # TechnoCypher
-"TechnoCypher: the ultimate cyberpunk music player inspired by ¡> Ghost // Artwork Designer. Experience cutting-edge visuals and alternative music genres fused with futuristic aesthetics. Enjoy this unique app dedicated to capturing the essence of the cyberpunk world. Created with love and inspired by the genius of ¡> Ghost // Artwork Designer."
+TechnoCypher, the ultimate cyberpunk music player for lovers of futuristic aesthetics and electronic beats!
+
+Inspired by the incredible artwork of ¡> Ghost // Artwork Designer, TechnoCypher is a music app dedicated to capturing the essence of the cyberpunk world. From its cutting-edge visuals to its selection of alternative music genres, this app fuses technology with design in a unique way.
+
+We dedicate this app to ¡> Ghost // Artwork Designer, whose artistic genius inspired us to create this unique experience. We hope you enjoy TechnoCypher as much as we enjoyed developing it!
