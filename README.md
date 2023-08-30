@@ -5,4 +5,5 @@ Inspired by the incredible artwork of ¡> Ghost // Artwork Designer, TechnoCyphe
 
 We dedicate this app to ¡> Ghost // Artwork Designer, whose artistic genius inspired us to create this unique experience. We hope you enjoy TechnoCypher as much as we enjoyed developing it!
 
-¡> Ghost // Artwork Designer https://www.ghostgfx.com/
+- #### ¡> Ghost // Artwork Designer: https://www.ghostgfx.com/
+- #### TechnoCypher player: https://titir1x.github.io/TechnoCypher
